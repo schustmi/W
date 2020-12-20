@@ -51,12 +51,6 @@
          "id":18,
          "name":"beerpong",
          "opacity":1,
-         "properties":[
-                {
-                 "name":"openWebsite",
-                 "type":"string",
-                 "value":"https:\/\/imgur.com\/Vco623g"
-                }],
          "type":"tilelayer",
          "visible":true,
          "width":32,
