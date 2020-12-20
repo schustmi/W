@@ -37,7 +37,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/nextcloud.deepscenario.com\/s\/Jn3Bmgie75p4SM4"
+                 "value":"https:\/\/files.deepscenario.com\/s\/Jn3Bmgie75p4SM4"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -55,7 +55,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/vimeo.com\/170338499"
+                 "value":"https:\/\/files.deepscenario.com\/s\/EejWpLCF53pFj3p"
                 }],
          "type":"tilelayer",
          "visible":true,
