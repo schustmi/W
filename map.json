@@ -139,7 +139,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"https:\/\/play.workadventu.re\/_\/global\/schustmi.github.io\/W\/basement.json#outside_entry"
+                 "value":"\/_\/global\/schustmi.github.io\/W\/basement.json#outside_entry"
                 }],
          "type":"tilelayer",
          "visible":true,
